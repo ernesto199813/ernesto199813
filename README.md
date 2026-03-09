@@ -32,6 +32,6 @@ Soy un desarrollador apasionado por crear soluciones escalables y modernas. Me e
 
 ### 📫 Cómo contactarme
 - 💼 [LinkedIn](TU_LINK_AQUI)
-- 📧 TuEmail@ejemplo.com
+- 📧 ernesto199813@gmail.com
 
 ---
