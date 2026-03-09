@@ -25,7 +25,7 @@ Soy un desarrollador apasionado por crear soluciones escalables y modernas. Me e
 
 ### 📂 Proyectos Principales
 
-| Proyecto | Descripción | Stack Tecnológico | ver sistema |
+| Proyecto | Descripción | Stack Tecnológico | ver|
 | :--- | :--- | :--- | :--- |
 | **Nudoos - E-commerce** | Plataforma de catálogo artesanal con carrito de compras y pedidos vía WhatsApp. | ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css) ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white)| [En Vivo](https://nudoos.vercel.app/) |
 | **Cotizados - Crypto & Finanzas** | Calculadora y monitor de tasas de cambio (BTC/USDT) con persistencia de datos en tiempo real. | ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css) ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel) | [En Vivo](https://cotizados.vercel.app/cotizaciones) |
