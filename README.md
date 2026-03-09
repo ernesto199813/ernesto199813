@@ -1,4 +1,4 @@
-# Hola, soy Ernesto 👋 
+# Hola, soy Ernesto Marchetti 👋 
 
 ### 🚀 Desarrollador Fullstack | Python (Django) & JavaScript (React/Next.js)
 
