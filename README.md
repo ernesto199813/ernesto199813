@@ -34,7 +34,9 @@ Soy un desarrollador apasionado por crear soluciones escalables y modernas. Me e
 
 | Proyecto | Descripción | Stack Tecnológico | Demo / Repo |
 | :--- | :--- | :--- | :--- |
-| **Sistema de Gestión Empresarial** | Plataforma completa para administración de inventarios y ventas con reportes en tiempo real. | ![Django](https://img.shields.io/badge/-Django-092E20?logo=django) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react) | [Ver Código](https://github.com/ernesto199813/TU_REPOSITORIO) |
+| Proyecto | Descripción | Stack Tecnológico | Enlaces |
+| :--- | :--- | :--- | :--- |
+| **Nudoos - E-commerce Artesanal** | Plataforma de catálogo y ventas para productos tejidos a mano. Incluye carrito, categorías y contacto directo por WhatsApp. | ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js) ![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react) | [Demo En Vivo](https://nudoos.vercel.app/) / [Código](https://github.com/ernesto199813/nudoos) |
 | **Dashboard de Criptomonedas** | Panel de visualización de precios en tiempo real para Bitcoin y USDT usando APIs externas. | ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css) | [Demo En Vivo](https://tu-demo.vercel.app) |
 | **Plataforma de Análisis Deportivo** | Sistema de seguimiento y análisis de cuotas para fútbol (Serie A) y baloncesto. | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql) | [Ver Código](https://github.com/ernesto199813/TU_REPOSITORIO) |
 
