@@ -30,6 +30,19 @@ Soy un desarrollador apasionado por crear soluciones escalables y modernas. Me e
 
 ---
 
+### 📂 Proyectos Principales
+
+| Proyecto | Descripción | Stack Tecnológico | Demo / Repo |
+| :--- | :--- | :--- | :--- |
+| **Sistema de Gestión Empresarial** | Plataforma completa para administración de inventarios y ventas con reportes en tiempo real. | ![Django](https://img.shields.io/badge/-Django-092E20?logo=django) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react) | [Ver Código](https://github.com/ernesto199813/TU_REPOSITORIO) |
+| **Dashboard de Criptomonedas** | Panel de visualización de precios en tiempo real para Bitcoin y USDT usando APIs externas. | ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css) | [Demo En Vivo](https://tu-demo.vercel.app) |
+| **Plataforma de Análisis Deportivo** | Sistema de seguimiento y análisis de cuotas para fútbol (Serie A) y baloncesto. | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql) | [Ver Código](https://github.com/ernesto199813/TU_REPOSITORIO) |
+
+---
+
+
+---
+
 ### 📫 Cómo contactarme
 - 💼 [LinkedIn](TU_LINK_AQUI)
 - 📧 ernesto199813@gmail.com
