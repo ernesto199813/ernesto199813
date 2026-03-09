@@ -23,13 +23,6 @@ Soy un desarrollador apasionado por crear soluciones escalables y modernas. Me e
 
 ---
 
-### 📊 Mis Estadísticas de GitHub
-
-![Stats de Ernesto](https://github-readme-stats.vercel.app/api?username=ernesto199813&show_icons=true&theme=radical)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=ernesto199813&layout=compact&theme=radical)
-
----
-
 ### 📂 Proyectos Principales
 
 | Proyecto | Descripción | Stack Tecnológico | ver sistema |
