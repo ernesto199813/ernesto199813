@@ -29,10 +29,7 @@ Soy un desarrollador apasionado por crear soluciones escalables y modernas. Me e
 | :--- | :--- | :--- | :--- |
 | **Nudoos - E-commerce Artesanal** | Plataforma de catálogo y ventas para productos tejidos a mano. Incluye carrito, categorías y contacto directo por WhatsApp. | ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js) ![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react) | [En Vivo](https://nudoos.vercel.app/) |
 | **Cotizados -Calculadora y tasas de cambio** | Panel de visualización de precios en tiempo real para Bitcoin y USDT usando APIs externas. | ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css) | [En Vivo](https://cotizados.vercel.app/cotizaciones) |
-| **Plataforma de Análisis Deportivo** | Sistema de seguimiento y análisis de cuotas para fútbol (Serie A) y baloncesto. | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql) | [Ver Código](https://github.com/ernesto199813/TU_REPOSITORIO) |
-
----
-
+| **thelionskings -Organizacion musical** | Sistema de seguimiento y análisis de cuotas para fútbol (Serie A) y baloncesto. | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql) | [Ver Código](https://thelionskings.vercel.app/) |
 
 ---
 
