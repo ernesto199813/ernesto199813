@@ -27,8 +27,8 @@ Soy un desarrollador apasionado por crear soluciones escalables y modernas. Me e
 
 | Proyecto | Descripción | Stack Tecnológico | ver sistema |
 | :--- | :--- | :--- | :--- |
-| **Nudoos - E-commerce Artesanal** | Plataforma de catálogo y ventas para productos tejidos a mano. Incluye carrito, categorías y contacto directo por WhatsApp. | ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js) ![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react) | [En Vivo](https://nudoos.vercel.app/) |
-| **Cotizados -Calculadora y tasas de cambio** | Panel de visualización de precios en tiempo real para Bitcoin y USDT usando APIs externas. | ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css) | [En Vivo](https://cotizados.vercel.app/cotizaciones) |
+| **Nudoos - E-commerce** | Plataforma de catálogo artesanal con carrito de compras y pedidos vía WhatsApp. | ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css) | [En Vivo](https://nudoos.vercel.app/) |
+| **Cotizados - Crypto & Finanzas** | Calculadora y monitor de tasas de cambio (BTC/USDT) con persistencia de datos en tiempo real. | ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css) | [En Vivo](https://cotizados.vercel.app/cotizaciones) |
 | **thelionskings -Organizacion musical** | Sistema de seguimiento y análisis de cuotas para fútbol (Serie A) y baloncesto. |  ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css) | [En Vivo](https://thelionskings.vercel.app/) |
 
 ---
